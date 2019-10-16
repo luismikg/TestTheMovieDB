@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test Movie</string>
+    <string name="connections_Problem">Connections problem!!</string>
+    <string name="title">Title movie</string>
+    <string name="sub_title">Subtitle movie</string>
+    <string name="info_movie">Info movie</string>
+    <string name="release_date_text">Release date</string>
+    <string name="movie_rating_text">Rating:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="budget">Budget:</string>
+    <string name="revenue">Revenue:</string>
+    <string name="overview">Overview:</string>
+    <string name="overview_text">overview .........</string>
+    <string name="success">Success</string>
+    <string name="wrog">Something went wrog</string>
+    <string name="running">Running</string>
+</resources>

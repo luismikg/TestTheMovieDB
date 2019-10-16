@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test Peliculas</string>
+    <string name="connections_Problem">Problema en la coneccion!!</string>
+    <string name="title">"Título de la prelicula "</string>
+    <string name="sub_title">Subtitulo de la película</string>
+    <string name="info_movie">Información de la película</string>
+    <string name="release_date_text">Fecha de lanzamiento</string>
+    <string name="movie_rating_text">Calificación:</string>
+    <string name="runtime">Duración:</string>
+    <string name="budget">Presupuesto:</string>
+    <string name="revenue">Ingresos:</string>
+    <string name="overview">Generalidad:</string>
+    <string name="overview_text">generalidad .........</string>
+    <string name="success">Éxito</string>
+    <string name="wrog">Ocurrió un error</string>
+    <string name="running">Corriendo</string>
+</resources>
